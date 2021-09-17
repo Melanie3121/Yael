@@ -1,0 +1,35 @@
+body {
+    background-image: url(../imagenes/Cuadros.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+a{
+
+    background-color: rgba(121, 26, 230, 0.904);
+    color: black;
+
+}
+h1{
+    background-color: rgba(121, 26, 230, 0.904);
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    font-style: italic;
+    text-align: center;
+
+}
+
+h3{
+    font-style: italic;
+}
+
+p{
+    font-style: inherit;
+}
+img{
+    height: 310px;
+    width: 300px;
+}
